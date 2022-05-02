@@ -38,7 +38,7 @@ function setup() {
   //Not specific to each number_to_draw; this list contains
   //indeces of layers which the user wants to automatically cycle in size
   
-  zoom_multiplier = 1.3;
+  zoom_multiplier = 0.8;
   iterated_drawing_frame = -2;
   iterated_drawing_frame = 0;
   //-2 = this shape is not being drawn with iterative drawing at all
